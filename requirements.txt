@@ -1,0 +1,12 @@
+numpy
+pandas
+scikit-learn
+matplotlib
+seaborn
+plotly
+joblib
+xgboost
+imbalanced-learn
+catboost
+tensorflow
+pickle-mixin  # 'pickle' is part of the Python standard library, so we use 'pickle-mixin' as a placeholder
